@@ -1,6 +1,4 @@
 def solution(s):
-    check = True
-    
     a = list(s.lower().title())
     
     for i in range(len(a)):
